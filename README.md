@@ -1,6 +1,6 @@
 # Full Wallpaper - Website
 <p>🎉 WELCOME 🎉</p>
-<p>🚀 Description of the project here...</p>
+<p>Nice UI Website of Desktop Wallpaper</p>
 
 # _Screenshots_
 
